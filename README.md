@@ -1,2 +1,4 @@
-# garch
-BTC data analysis using GARCH model
+# 金融风险管理
+
+本项目用于金融风险管理的学习之用，不作为任何投资建议。
+
