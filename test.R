@@ -14,3 +14,6 @@ sigma<- 0.0408*sqrt(365)
 # 计算概率密度
 x<-lowValue(S.0,0.03,sigma,1,0.5)
 print(x)
+
+val<-qnorm(0.01)
+print(0.1836*val)
